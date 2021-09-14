@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [git常用命令](README.md)
 
