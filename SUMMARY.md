@@ -1,12 +1,12 @@
-# 目录
+# Table of contents
 
-- [README](README.md)
+* [README](README.md)
 
 ## kubernetes
 
-- [快速部署一个Kubernetes集群](kubenets\快速部署一个Kubernetes集群【v1.18】.md)
+* [快速部署一个Kubernetes集群](kubernetes/kuai-su-bu-shu-yi-ge-kubernetes-ji-qun.md)
 
 ## Docker
 
-- [快速部署一个Kubernetes集群](docker\docker 安装zabbix.md)
+* [快速部署一个Kubernetes集群](docker/docker-an-zhuang-zabbix.md)
 
